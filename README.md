@@ -1,3 +1,3 @@
 # Pendellaboration
-Kod som animerar en matematisk pendel. 
+Pythonkod som animerar en matematisk pendel. 
 Användes i en laboration på gymnasienivå.
